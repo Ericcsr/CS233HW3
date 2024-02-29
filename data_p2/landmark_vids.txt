@@ -1,0 +1,20 @@
+361,Left Toe
+368,Right Toe
+2783,Left Knee
+2792,Right Knee
+5613,Left Hip
+5707,Right Hip
+4922,Left Hand
+5241,Right Hand
+8435,Left Elbow
+8713,Right Elbow
+10673,Left Sholder
+10677,Right Sholder
+7356,Left Side
+7226,Right Side
+9170,Left Chest
+9272,Right Chest
+8686,Left Back
+8699,Right Back
+12464,Vertex
+7178,Belly
