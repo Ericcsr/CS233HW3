@@ -1,5 +1,0 @@
-32308,Left Toe
-4777,Right Toe
-34639,Left Hand
-1901,Right Hand
-19710,Vertex
